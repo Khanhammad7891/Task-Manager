@@ -17,11 +17,6 @@ It also saves tasks in a local `tasks.json` file so that you can load them later
 
 ---
 
-## 📸 Screenshot
-*(Add your app screenshot here)*
-
----
-
 ## 🛠️ Requirements
 - Python 3.x
 - Tkinter (comes pre-installed with Python)
